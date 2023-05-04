@@ -52,7 +52,3 @@ test('update i8 engineType', () => {
 
 // const i8 = new Car("BMW", 40000, "BMWTech");
 // console.log(BMW);
-
-// const corsa = new Car("Vauxhall", 3000, "EcoTech");
-
-// const polo = new Car("Volkswagen", 8000, "VTech");
